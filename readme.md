@@ -4,7 +4,7 @@ I'm khalvai
 
 
 - ⚡ I'm a Backend Developer 
-- 🔭 I’m currently reading about architectures (Hexagonal, DDD  Architecture)
+- 🔭 I’m currently reading about Hexagonal Architecture and DDD concepts
 - 💻 My favorite language is TypeScript
 
 <a href="https://github.com/khalvai">
