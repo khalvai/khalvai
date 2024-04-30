@@ -3,9 +3,9 @@
 I'm khalvai
 
 
-- ⚡ I'm a Backend Developer 
+- ⚡ I'm a Software engineer
 - 🔭 I’m currently reading about Hexagonal Architecture and DDD concepts
-- 💻 My favorite language is TypeScript
+- 💻 My focus on TypeScript (for while)
 
 <a href="https://github.com/khalvai">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=khalvai&show_icons=true&count_private=true&include_all_commits=true&theme=dark" /></a> 
