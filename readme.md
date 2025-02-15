@@ -1,9 +1,9 @@
 ## Hey! 👋
 
-I'm khalvai
+My name is Khalvai Ozbek.
 
 
-- ⚡ I'm a Software engineer.
+- ⚡ I'm a Nestjs Backend Developer.
 - 🔭 I’m currently reading about data consistency in bounded contexts (take each bounded context a service or a module with saparate database)
 
 
