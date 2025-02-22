@@ -8,4 +8,4 @@ My name is Khalvai Ozbek.
 
 
 ## Contact
-- [@khalvai](https://t.me/khalvai) on telegram
+- [@khalvai](https://t.me/khalvai) on Telegram
